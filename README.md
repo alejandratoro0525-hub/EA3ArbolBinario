@@ -45,6 +45,9 @@ Si insertamos los números `25, 39, 15, 2, 20`, el recorrido inorden mostrará:
  ## Búsqueda de número  
 ![Captura de búsqueda](Capturas/busqueda.png)
 
+El trabajo se presenta por manuela alejandra toro arias de manera individual, el proyecto tiene los commit de unas correcciones y de la terminacion del readme.md
+ 
+
 
 
 
