@@ -54,5 +54,6 @@ public class ArbolBinario {
         return valor < actual.valor
                 ? buscarRecursivo(actual.izquierdo, valor)
                 : buscarRecursivo(actual.derecho, valor);
+
     }
 }
