@@ -7,7 +7,7 @@ public class Nodo {
     
     public Nodo(int valor) {
         this.valor = valor;
-        this.izquierdo  null;
+        this.izquierdo = null;
         this.derecho = null;
     }
 }
